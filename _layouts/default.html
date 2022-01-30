@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 
 {% seo %}
     {% include head-custom.html %}
@@ -23,7 +24,7 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           <nav>
-            <a href="/">Home</a> • <a href="/posts">Posts</a> • <a href="/feed.xml" target="_blank">RSS Feed</a> • <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub Profile</a>
+            <a href="/">Home</a> • <a href="/posts">Posts</a> • <a href="https://github.com/charlesetd/charlesetd.github.io/discussions" target="_blank">Discussions</a> • <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a> • <a href="/feed.xml" target="_blank">Atom Feed</a>
           </nav>
 
           {% if site.show_downloads %}

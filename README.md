@@ -1,3 +1,3 @@
-# Mechamagically
+# Mechamagical
 
 https://charlesetd.github.io/
