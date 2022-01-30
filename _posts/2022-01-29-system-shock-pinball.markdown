@@ -47,12 +47,6 @@ I don't know how feasible all of these features are but I strive to at least try
 
 I have a few special features I'm designing in as well but you'll just have to stay tuned to future posts to hear about those.
 
-## Development
-
-I personally prefer to work in CAD before making anything physical. I realize this is completely backwards from nearly everyone else; however, I find I just can't picture the end result I want without drawing it out in CAD first. In a twist that's sure to surprise some, my CAD tool of choice OpenSCAD. The reason for this is twofold: 1) OpenSCAD's language really meshes with how I think (pun intended) and 2) Fusion 360 is borked for my Autodesk account and I refuse to make a new account just to fix their software.
-
-In all seriousness, I have used Autodesk 3D modelling and CAD software in the past but being a software engineer by trade I just feel more comfortable writing code. That said, OpenSCAD leaves a lot to be desired (especially in the dependency management front) and I probably would have been a lot farther along by now had I forced myself to use something else. All that's to say: your mileage may vary.
-
 ## Challenges
 
 One of the first and most persistent challenges of building a scaled down pinball machine is the OG buzzkill, physics. As Ben noted in his show, simply scaling down the ball's diameter by half doesn't really work all that well as you lose so much mass that the ball becomes uncontrollable. Taking Ben's advice, I have chosen to use a 5/8" bearing ball as opposed to a 1/2" ball.
@@ -65,10 +59,16 @@ Even with the adjusted diameter, the 5/8" ball just doesn't have enough mass to 
 ![Assorted Sensors](/assets/posts/2022-01-29-sensors.jpg)
 *Sensors I've tested thus far including capacitive, inductive, optical, Hall effect, physical, and ultrasonic*
 
-Weak balls aren't the only problem we've got to contend with either. Finding solenoids with enough power and throw to actuate the playfield mechs has been far more difficult than I initially expected. Most higher power and longer throw solenoids are simply too big to fit into a half-scale cabinet and smaller solenoids lack the power or range needed to do anything useful. Thankfully, I've found this can be mitigated by overvolting smaller solenoids; although, only time will tell how long the solenoids last being driven at 150-160% their rated voltage.
+Physics isn't the only problem we've got to contend with either. Finding solenoids with enough power and throw to actuate the playfield mechs has been far more difficult than I initially expected. Most higher power and longer throw solenoids are simply too big to fit into a half-scale cabinet and smaller solenoids lack the power or range needed to do anything useful. Thankfully, I've found this can be mitigated by overvolting smaller solenoids; although, only time will tell how long the solenoids last being driven at 150-160% their rated voltage.
 
 ![12v Solenoids](/assets/posts/2022-01-29-solenoids.jpg)
 *Pictured above are 3 vastly different sizes of 12v solenoids*
+
+## Development
+
+I personally prefer to work in CAD before making anything physical. I realize this is completely backwards from nearly everyone else; however, I find I just can't picture the end result I want without drawing it out in CAD first. In a twist that's sure to surprise some, my CAD tool of choice OpenSCAD. The reason for this is twofold: 1) OpenSCAD's language really meshes with how I think (pun intended) and 2) Fusion 360 is borked for my Autodesk account and I refuse to make a new account just to fix their software.
+
+In all seriousness, I have used Autodesk 3D modelling and CAD software in the past but being a software engineer by trade I just feel more comfortable writing code. That said, OpenSCAD leaves a lot to be desired (especially in the dependency management front) and I probably would have been a lot farther along by now had I forced myself to use something else. All that's to say: your mileage may vary.
 
 ## Current Progress
 
