@@ -1,1 +1,3 @@
-# Blog
+# Personal Blog
+
+https://charlesetd.github.io/

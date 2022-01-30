@@ -1,1 +1,9 @@
+title: Mechamagically
+description: "A blog about my homebrew pinball machine and other harebrained schemes."
+show_downloads: false
+domain: "charlesetd.github.io"
+url: "https://charlesetd.github.io"
+github_username:  charlesetd
 theme: jekyll-theme-slate
+plugins:
+- jekyll-feed
