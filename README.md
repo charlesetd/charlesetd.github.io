@@ -1,3 +1,3 @@
-# Personal Blog
+# Mechamagically
 
 https://charlesetd.github.io/
