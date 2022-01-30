@@ -3,8 +3,6 @@ title: Posts
 permalink: /posts/
 ---
 
-<a href="/">Home</a>
-
 <h1>Archive</h1>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}

@@ -3,3 +3,4 @@
 
 # Ensure the integrity of binary files is preserved
 *.png binary
+*.jpg binary
