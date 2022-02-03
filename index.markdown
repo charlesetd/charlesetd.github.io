@@ -2,8 +2,8 @@
 title: Home
 ---
 
-# Welcome
+# $FFFC
 
-Not sure what I do here? Don't worry, neither do I! But while you're here, why not check out some of my <a href="/posts/">blog posts</a>? I'm sure there's something cool in there.
+I write code to run code to scan code and sometimes I write <a href="/posts/">blog posts</a> too. I'm always working on something cool whether it be software, electronics, game development, or even homebrew pinball.
 
-If you like what you read, then why not also consider subscribing to my <a href="/feed.xml">RSS feed</a> so you get notified of all future posts?
+Development takes time so I can't guarantee I'll post regularly. If you like what you read, why not consider subscribing to my <a href="/feed.xml">Atom feed</a> so you never miss a new post?
