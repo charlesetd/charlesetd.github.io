@@ -4,6 +4,7 @@ show_downloads: false
 domain: "charlesetd.github.io"
 url: "https://charlesetd.github.io"
 github_username:  charlesetd
+twitter_username: reset_vector
 theme: jekyll-theme-slate
 plugins:
 - jekyll-feed
