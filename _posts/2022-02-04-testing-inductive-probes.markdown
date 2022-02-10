@@ -11,7 +11,9 @@ Ever wonder how well industrial inductive probes would work in a pinball machine
 
 One of the goals for my [half-scale System Shock pinball machine]({% post_url 2022-01-29-system-shock-pinball %}) is to include fully-functioning slingshots. For those unfamiliar, slingshots are the triangular kickers located just above the flippers on most pinball machines. The slingshots are designed to kick the ball diagonally up or down the playfield on contact.
 
-<iframe width="739" height="415" src="https://www.youtube.com/embed/Tmg5WOvPKpU?controls=1&amp;start=450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tmg5WOvPKpU?controls=1&amp;start=450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 *This video shows a great closeup of a slingshot in action if you've never seen one before. Credit ["How a Pinball Machine works in Slow Motion - The Slow Mo Guys" by The Slow Mo Guys](https://youtu.be/jq6nx6it1CE).*
 
 Designing half-scale slingshots that can kick was actually pretty easy; however, finding a reliable way to trigger them was a whole other problem. On a full-sized machine, the slingshots are triggered by two leaf switches located just behind the rubber ring. The slingshot is activated when the ball deflects the ring causing it to close one or both of the switches. This mechanism works great for an ~80g (~2.8oz) pinball but not so well when scaled down. Even with the softest rubber rings I could find to fit my slingshots (75A), the measly 16.3g (0.57oz) ball I'm designing for just can't deflect the rubber far enough or with enough force to actuate most physical switches.
