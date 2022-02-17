@@ -1,6 +1,6 @@
 ---
-title:  "Testing Inductive Probes"
-date:   2022-02-05 23:46:07 -0600
+title: "Testing Inductive Probes | Half Scale Pinball"
+date: 2022-02-05 23:46:07 -0600
 categories: system-shock-pinball
 tags: pinball
 ---

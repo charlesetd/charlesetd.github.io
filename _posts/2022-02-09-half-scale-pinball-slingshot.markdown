@@ -1,6 +1,6 @@
 ---
-title:  "Half Scale Pinball Slingshot"
-date:   2022-02-09 19:56:16 -0600
+title: "Slingshots | Half Scale Pinball"
+date: 2022-02-09 19:56:16 -0600
 categories: system-shock-pinball
 tags: pinball video
 ---

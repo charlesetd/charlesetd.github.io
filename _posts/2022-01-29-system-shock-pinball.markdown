@@ -1,6 +1,6 @@
 ---
-title:  "Half Scale Pinball"
-date:   2022-01-29 19:18:13 -0600
+title: "Half Scale Pinball"
+date: 2022-01-29 19:18:13 -0600
 categories: system-shock-pinball
 tags: pinball
 ---
