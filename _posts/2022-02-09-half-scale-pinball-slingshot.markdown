@@ -3,9 +3,8 @@ title: "Slingshots | Half Scale Pinball"
 date: 2022-02-09 19:56:16 -0600
 categories: system-shock-pinball
 tags: pinball video
+excerpt: This week I show off a video of the functioning prototype slingshot assembly complete with multi-colored LED lighting.
 ---
-
-This week I show off a video of the functioning prototype slingshot assembly complete with multi-colored LED lighting.
 
 ## Testing
 

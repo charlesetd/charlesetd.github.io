@@ -3,9 +3,8 @@ title: "Testing Inductive Probes | Half Scale Pinball"
 date: 2022-02-05 23:46:07 -0600
 categories: system-shock-pinball
 tags: pinball
+excerpt: Ever wonder how well industrial inductive probes would work in a pinball machine? No? Well I did and in this post I outline how well they perform and share one simple trick to double the range of an inductive probe that its manufacturers don't want you to know (no, really).
 ---
-
-Ever wonder how well industrial inductive probes would work in a pinball machine? No? Well I did and in this post I outline how well they perform and share one simple trick to double the range of an inductive probe that its manufacturers don't want you to know (no, really).
 
 ## Background
 

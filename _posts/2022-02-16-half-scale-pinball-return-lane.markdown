@@ -3,9 +3,8 @@ title: "Return Lane | Half Scale Pinball"
 date: 2022-02-16 20:09:37 -0600
 categories: system-shock-pinball
 tags: pinball openscad
+excerpt: The prototype return lane is complete and I discuss some of the challenges of working exclusively in OpenSCAD.
 ---
-
-The prototype return lane is complete and I discuss some of the challenges of working exclusively in OpenSCAD.
 
 ## The prototype
 

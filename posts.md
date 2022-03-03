@@ -15,7 +15,7 @@ permalink: /posts/
     {% for post in month.items %}
       <li>
         <a href="{{ post.url }}">{{ post.date | date: '%Y-%m-%d' }}: {{ post.title }}</a>
-        {{ post.excerpt }}
+        <p>{{ post.excerpt }}</p>
       </li>
     {% endfor %}
   </ul>

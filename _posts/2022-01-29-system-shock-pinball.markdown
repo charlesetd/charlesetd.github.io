@@ -3,9 +3,8 @@ title: "Half Scale Pinball"
 date: 2022-01-29 19:18:13 -0600
 categories: system-shock-pinball
 tags: pinball
+excerpt: Let's start this blog off right by outlining one of my longest running projects to date. Half-scale System Shock pinball!
 ---
-
-Let's start this blog off right by outlining one of my longest running projects to date. Half-scale System Shock pinball!
 
 ## Background
 

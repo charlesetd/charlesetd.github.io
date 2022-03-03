@@ -3,9 +3,8 @@ title: "Ball Ejector Testing | Half Scale Pinball"
 date: 2022-02-23 19:21:32 -0600
 categories: system-shock-pinball
 tags: pinball
+excerpt: Short update this week showcasing my testing of a ball eject mechanism.
 ---
-
-Short update this week showcasing my testing of a ball eject mechanism.
 
 ## Ball trough design
 
